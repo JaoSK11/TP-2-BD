@@ -1,7 +1,0 @@
-Create table cidade
-
-(
-    id_cidade serial primary key,
-    cidade varchar(30),
-   estado varchar(3)
-)
